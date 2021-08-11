@@ -1,0 +1,12 @@
+/Users/Maronda/Projects/Exercise14/Exercise14/bin/Debug/netcoreapp3.1/Exercise14.deps.json
+/Users/Maronda/Projects/Exercise14/Exercise14/bin/Debug/netcoreapp3.1/Exercise14.runtimeconfig.json
+/Users/Maronda/Projects/Exercise14/Exercise14/bin/Debug/netcoreapp3.1/Exercise14.runtimeconfig.dev.json
+/Users/Maronda/Projects/Exercise14/Exercise14/bin/Debug/netcoreapp3.1/Exercise14.dll
+/Users/Maronda/Projects/Exercise14/Exercise14/bin/Debug/netcoreapp3.1/Exercise14.pdb
+/Users/Maronda/Projects/Exercise14/Exercise14/obj/Debug/netcoreapp3.1/Exercise14.csproj.AssemblyReference.cache
+/Users/Maronda/Projects/Exercise14/Exercise14/obj/Debug/netcoreapp3.1/Exercise14.AssemblyInfoInputs.cache
+/Users/Maronda/Projects/Exercise14/Exercise14/obj/Debug/netcoreapp3.1/Exercise14.AssemblyInfo.cs
+/Users/Maronda/Projects/Exercise14/Exercise14/obj/Debug/netcoreapp3.1/Exercise14.csproj.CoreCompileInputs.cache
+/Users/Maronda/Projects/Exercise14/Exercise14/obj/Debug/netcoreapp3.1/Exercise14.dll
+/Users/Maronda/Projects/Exercise14/Exercise14/obj/Debug/netcoreapp3.1/Exercise14.pdb
+/Users/Maronda/Projects/Exercise14/Exercise14/obj/Debug/netcoreapp3.1/Exercise14.genruntimeconfig.cache
